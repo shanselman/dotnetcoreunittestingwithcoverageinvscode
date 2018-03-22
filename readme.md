@@ -1,9 +1,11 @@
-Using VS Code, https://github.com/tonerdo/coverlet/, xUnit, plus these extensions
+Using VS Code, [Coverlet](https://github.com/tonerdo/coverlet/), xUnit, plus these extensions
 
 - [Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters)
     - Reads in the lcov.info file (name matters) and highlights lines with color
 - [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
     - Discovers tests and gives you a nice explorer.
+- [Coverlet](https://github.com/tonerdo/coverlet/) 
+    - The start of .NET Core Code Coverage
 
 ![Image of it all together](screenshot1.png)
 
