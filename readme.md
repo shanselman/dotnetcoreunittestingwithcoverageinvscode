@@ -1,4 +1,4 @@
-Use VS Code and add these extensions
+Using VS Code, https://github.com/tonerdo/coverlet/, xUnit, plus these extensions
 
 - [Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters)
 - [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
