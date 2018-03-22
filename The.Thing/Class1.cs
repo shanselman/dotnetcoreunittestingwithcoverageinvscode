@@ -7,7 +7,7 @@ namespace The.Thing
         public long Add(int a, int b)
         {
             int result = a+b;
-            if (result > 10) 
+            if (result >= 10) 
             { 
                 return ++result; 
             }
