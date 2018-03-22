@@ -1,7 +1,9 @@
 Use VS Code and add these extensions
 
-Coverage Gutters https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters
-.NET Core Test Explorer https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer
+- [Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters)
+- [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
+
+![Image of it all together](screenshot1.png)
 
 Note the tasks.json, specifically this part. If you name the file lcov.info, the Coverage Gutters extension will pick up and color the line numbers.
 
